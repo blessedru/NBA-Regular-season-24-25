@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NBA_Regular_Season_24_25.Players">
+    <Position X="103" Y="25.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAQAAEAAAAEAAAAEAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Players.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.PlayersAverageStats">
+    <Position X="106.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEQAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayersAverageStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.PlayersEfficiency">
+    <Position X="103" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>PlayersEfficiency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.PlayersTotalStats">
+    <Position X="104.75" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>PlayersTotalStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.ChangePlayersForm">
+    <Position X="106.5" Y="29.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABGAAgACCAABgQiEGABAACAAIAAAAIAAgAAQEAAAA=</HashCode>
+      <FileName>ChangePlayersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.UsersForm">
+    <Position X="104.75" Y="25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAAAAACAAAACAAAAAAAEAAAACAAAAAA=</HashCode>
+      <FileName>UsersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.Teams">
+    <Position X="108.25" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.TeamsRecords">
+    <Position X="110" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TeamsRecords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.PlayersForm">
+    <Position X="104.75" Y="29.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABGAAgACCAABgQiEGABAACAAIAAAAIAAgAAQEAAAA=</HashCode>
+      <FileName>PlayersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.MainForm">
+    <Position X="110" Y="25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAAgAAAIACAA5AgABQCgIAAiAAIBAAAABAAQIAIAEAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.DataViewForm">
+    <Position X="108.25" Y="25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgCAAAABCAEMEBAAwCAQEACAAAAkAQgAAAAIAgCEQY=</HashCode>
+      <FileName>DataViewForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.ChangePlayersTotalStatsForm">
+    <Position X="108.25" Y="29.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>0AABOABgACAAJBgUiAOABAAKAAAAKgAYAAhAAQUAQBA=</HashCode>
+      <FileName>ChangePlayersTotalStatsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.AdminForm">
+    <Position X="106.5" Y="24.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAIAAAAACAAABAACACABAACEAAAAAAIIAAAAAEAAAA=</HashCode>
+      <FileName>AdminForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.ChangePlayersAverageStatsForm">
+    <Position X="110" Y="29.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>8AABGAAwQCAIBJgViACiBAAKAAAAIAAJAAhAAUUAZBA=</HashCode>
+      <FileName>ChangePlayersAverageStatsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBA_Regular_Season_24_25.ChangePlayersEfficiencyForm">
+    <Position X="103" Y="29.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>8SEBGAAgACAAABgQiACCBABKAAQAAAAIMAhDAQUAABA=</HashCode>
+      <FileName>ChangePlayersEfficiencyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="NBA_Regular_Season_24_25.Tables">
+    <Position X="103" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAEAAAAIAAAAAgAAAAIAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tables.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

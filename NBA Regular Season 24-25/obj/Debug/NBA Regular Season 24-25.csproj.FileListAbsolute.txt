@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA Regular Season 24-25.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA_Regular_Season_24_25.Properties.Resources.resources
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA Regular Season 24-25.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA Regular Season 24-25.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\bin\Debug\NBA Regular Season 24-25.exe.config
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\bin\Debug\NBA Regular Season 24-25.exe
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\bin\Debug\NBA Regular Season 24-25.pdb
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA_Regular_Season_24_25.DataViewForm.resources
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA_Regular_Season_24_25.MainForm.resources
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA Regular Season 24-25.exe
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA Regular Season 24-25.pdb
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA_Regular_Season_24_25.PlayersForm.resources
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA_Regular_Season_24_25.UsersForm.resources
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA_Regular_Season_24_25.AdminForm.resources
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA_Regular_Season_24_25.ChangePlayersForm.resources
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA_Regular_Season_24_25.ChangePlayersAverageStatsForm.resources
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA_Regular_Season_24_25.ChangePlayersEfficiencyForm.resources
+C:\Users\User\source\repos\NBA Regular Season 24-25\NBA Regular Season 24-25\obj\Debug\NBA_Regular_Season_24_25.ChangePlayersTotalStatsForm.resources
